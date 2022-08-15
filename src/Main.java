@@ -72,8 +72,8 @@ public class Main {
         for (int a = 0; a < i.length; a++) {
             if (i[a] % 2 != 0) {
                 i[a] += 1;
-                System.out.print(i[a] + " ");
             }
+            System.out.print(i[a] + " ");
         }
 
 
